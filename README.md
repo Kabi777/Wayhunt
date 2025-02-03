@@ -50,7 +50,7 @@ After running the script, the following directory structure will be created:
         └── ...             # Other categorized files
 ```
 --- 
-File Extensions Supported
+## File Extensions Supported
 
 Wayhunt supports categorizing the following file extensions:
 ```
