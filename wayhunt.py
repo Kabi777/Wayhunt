@@ -10,7 +10,7 @@ print("""
       A tool for scraping and categorizing
       URLs from the Wayback Machine!
 -------------------------------------------
-            by kabi_777
+                 by kabi_777
 «==========================================»
 """)
 
