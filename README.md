@@ -14,10 +14,12 @@ To use Wayhunt, follow these steps:
 
 ```
 git clone https://github.com/Kabi777/Wayhunt
+
 ```
  **Navigate to the project folder**:
 ```
 cd Wayhunt
+chmod +x wayhunt.py
 ```
 Now, you are ready to use Wayhunt!
 
