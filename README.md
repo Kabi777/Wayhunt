@@ -7,9 +7,23 @@ Wayhunt is a simple tool that scrapes URLs from the Wayback Machine (Internet Ar
 - Scrapes URLs related to a specified domain from the Wayback Machine.
 - Categorizes URLs based on their file extensions (e.g., pdf, zip, json, etc.).
 - Saves the categorized URLs in specific files for each extension.
+إليك قسم Installation مكتوب:
+
+## Installation
+To use Wayhunt, follow these steps:
+
+```
+git clone https://github.com/Kabi777/Wayhunt
+```
+ **Navigate to the project folder**:
+```
+cd Wayhunt
+```
+Now, you are ready to use Wayhunt!
+
 
 ## Usage
-
+ 
 -To use Wayhunt, run the script from the command line as follows:
 
 ```bash
