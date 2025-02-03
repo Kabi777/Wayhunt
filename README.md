@@ -38,7 +38,7 @@ python3 wayhunt.py example.com
 This will fetch URLs related to example.com from the Wayback Machine, categorize them by file type, and save the results in a folder named after the domain.
 
 ---
-##Directory Structure
+## Directory Structure
 
 After running the script, the following directory structure will be created:
 ```
