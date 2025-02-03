@@ -79,4 +79,4 @@ with open(f"{TARGET}/categorized_files/urls_with_parameters.txt", "w") as param_
 
 print(f"Step 7: URLs have been categorized and saved in the '{TARGET}/categorized_files' folder!")
 
-print("Script completed successfully!")￼Enter
+print("Script completed successfully!")
